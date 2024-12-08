@@ -1,0 +1,25 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(147,184,142);
+}
+h2{
+    text-align: center;
+}
+.img1{
+    width: 500px;
+    margin: auto;
+    margin-bottom: 30px;
+   display: block;
+   border-radius: 10px; 
+   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+figure{
+    width: 200px;
+    margin: auto;
+   display: block;
+   margin-bottom: 30px;
+}
+iframe{
+    margin: auto;
+    display: block;
+}
