@@ -1,6 +1,10 @@
 body {font-family: Georgia, 'Times New Roman', Times, serif;
 box-sizing: border-box;
-background-color:rgb(147,184,142) ;}
+background-color:rgb(147,184,142) ;
+border: 1px none;
+margin-left: 25%;
+margin-right: 25%;
+     }
 
 input, select, textarea {
   width: 100%;
